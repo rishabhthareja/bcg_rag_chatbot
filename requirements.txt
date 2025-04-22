@@ -1,0 +1,11 @@
+langchain
+langchain-community
+openai
+chromadb
+python-dotenv
+nest_asyncio
+deepeval
+llama-index[llamaparse]
+langchain-text-splitters
+tiktoken
+nest_asyncio
