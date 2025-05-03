@@ -9,3 +9,4 @@ llama-index[llamaparse]
 langchain-text-splitters
 tiktoken
 nest_asyncio
+streamlit
